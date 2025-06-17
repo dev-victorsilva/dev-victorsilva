@@ -11,7 +11,6 @@
 - 🧠 Aprendendo HTML, CSS, JavaScript, Java, Spring Boot e MySQL
 - 🎯 Em busca da primeira oportunidade como dev 💼
 - 🌍 Sonho em trabalhar com tecnologia pelo mundo
-- 📍 FOR, CE - Brasil
 
 ---
 
