@@ -29,14 +29,14 @@
 
 ### 🧪 Projetos em Destaque
 
-- [Projeto Login](https://github.com/dev-victorsales/projeto-login) – Tela de login estilizada com HTML e CSS
+- [Projeto Login](https://github.com/dev-victorsilva/projeto-login) – Tela de login estilizada com HTML e CSS
 - Em breve: portfólio pessoal e projetos com backend em Java 💡
 
 ---
 
 ### 📫 Como me encontrar
 
-- GitHub: [@dev-victorsales](https://github.com/dev-victorsales)
+- GitHub: [@dev-victorsilva](https://github.com/dev-victorsilva)
 
 ---
 
@@ -48,6 +48,6 @@
 ---
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-victorsales&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-victorsales&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-victorsilva&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-victorsilva&layout=compact&theme=radical" />
 </div>
