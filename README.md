@@ -1,30 +1,52 @@
-<h1 align="center">Olá! Eu sou o Victor 👋</h1> <p align="center"> 💻 Desenvolvedor Full Stack em Formação<br> 🚀 Apaixonado por tecnologia, aprendizado contínuo e desafios! </p>
-👨‍💻 Sobre Mim
-🎓 Estudando HTML, CSS, JavaScript, Java, Spring Boot e MySQL
+<h1 align="center">Olá, eu sou o Victor 👋</h1>
 
-💼 Em busca da primeira oportunidade profissional como desenvolvedor
+<p align="center">
+  Desenvolvedor Full Stack em Formação! 💻
+</p>
 
-🌍 Sonho em trabalhar com tecnologia ao redor do mundo
+---
 
-📚 Foco, disciplina e muita vontade de evoluir todos os dias
+### 🚀 Sobre mim
 
-🛠️ Tecnologias em Aprendizado
-<div align="center" style="display: flex; gap: 10px;"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" /> </div>
-🔥 Projetos em Destaque
-🔐 Projeto Login
-Interface de login responsiva desenvolvida com HTML e CSS
+- 🧠 Aprendendo HTML, CSS, JavaScript, Java, Spring Boot e MySQL
+- 🎯 Em busca da primeira oportunidade como dev 💼
+- 🌍 Sonho em trabalhar com tecnologia pelo mundo
 
-🚧 Em breve: Portfólio pessoal e aplicações full stack com Java + Spring Boot
+---
 
-📬 Onde me encontrar
-💼 GitHub: @dev-victorsilva
+### 🛠️ Tecnologias que estou aprendendo
 
-✨ Curiosidades
-🧠 Estudo todos os dias com metas claras e foco no crescimento
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" alt="HTML" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" alt="CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25" alt="Spring Boot" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25" alt="MySQL" />
 
-🌎 Amo viagens, liberdade e novas culturas
 
-💡 Sempre buscando aprender algo novo na área de tecnologia
+---
 
-📊 GitHub Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-victorsilva&show_icons=true&theme=radical" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-victorsilva&layout=compact&theme=radical" /> </div>
+### 🧪 Projetos em Destaque
+
+- [Projeto Login](https://github.com/dev-victorsilva/projeto-login) – Tela de login estilizada com HTML e CSS
+- Em breve: portfólio pessoal e projetos com backend em Java 💡
+
+---
+
+### 📫 Como me encontrar
+
+- GitHub: [@dev-victorsilva](https://github.com/dev-victorsilva)
+
+---
+
+### ⚡ Curiosidades
+
+- Estudo todos os dias com foco, disciplina e muita vontade de crescer 🚀
+- Amo tecnologia, viagens e liberdade 🌎
+
+---
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-victorsilva&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-victorsilva&layout=compact&theme=radical" />
+</div>
