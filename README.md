@@ -29,8 +29,10 @@
 
 ### 🧪 Projetos em Destaque
 
-- [Projeto Login](https://github.com/dev-victorsilva/projeto-login) – Tela de login estilizada com HTML e CSS
-- Em breve: portfólio pessoal e projetos com backend em Java 💡
+- [Projeto Login](https://github.com/dev-victorsilva/projeto-login) – Tela de login estilizada com HTML e CSS.
+- [Projeto Armazém do Café](https://github.com/dev-victorsilva/projeto-landing-page-cafe) – Esta landing page foi desenvolvida com o objetivo de apresentar um café aconchegante e moderno.
+- Em breve: portfólio pessoal e projetos com backend em Java 💡.
+
 
 ---
 
