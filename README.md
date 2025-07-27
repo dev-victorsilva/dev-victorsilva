@@ -1,55 +1,47 @@
-<h1 align="center">Olá, eu sou o Victor 👋</h1>
+<h1 align="center">Koé, eu sou o Victor! 👋</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack em Formação! 💻
+  Futuro Desenvolvedor Full Stack 💻 | Apaixonado por tecnologia, viagens e liberdade 🌍
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### 👨‍💻 Sobre mim
 
-- 🧠 Aprendendo HTML, CSS, JavaScript, Java, Spring Boot e MySQL
-- 🎯 Em busca da primeira oportunidade como dev 💼
-- 🌍 Sonho em trabalhar com tecnologia pelo mundo
+- 📚 Estudando: HTML, CSS, JavaScript, Java, Spring Boot e MySQL  
+- 🚀 Em transição para o mercado de tecnologia  
+- 🎯 Buscando minha primeira oportunidade como dev
 
 ---
 
-### 🛠️ Tecnologias que estou aprendendo
+### 💻 Tecnologias em Aprendizado
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL" />
 </p>
 
+---
+
+### 🧪 Projetos
+
+- 🔐 [Projeto Login](https://github.com/dev-victorsilva/projeto-login) – Tela de login responsiva com HTML e CSS  
+- ☕ [Armazém do Café](https://github.com/dev-victorsilva/projeto-landing-page-cafe) – Landing page de um café moderno  
+- 🔧 Em breve: portfólio pessoal + projetos com backend em Java  
 
 ---
 
-### 🧪 Projetos em Destaque
-
-- [Projeto Login](https://github.com/dev-victorsilva/projeto-login) – Tela de login estilizada com HTML e CSS.
-- [Projeto Armazém do Café](https://github.com/dev-victorsilva/projeto-landing-page-cafe) – Esta landing page foi desenvolvida com o objetivo de apresentar um café aconchegante e moderno.
-- Em breve: portfólio pessoal e projetos com backend em Java 💡.
-
-
----
-
-### 📫 Como me encontrar
+### 📫 Contato
 
 - GitHub: [@dev-victorsilva](https://github.com/dev-victorsilva)
 
 ---
 
-### ⚡ Curiosidades
-
-- Estudo todos os dias com foco, disciplina e muita vontade de crescer 🚀
-- Amo tecnologia, viagens e liberdade 🌎
-
----
-
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-victorsilva&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-victorsilva&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dev-victorsilva&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-victorsilva&layout=compact&theme=radical" />
 </div>
