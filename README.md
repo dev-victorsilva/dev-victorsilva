@@ -29,8 +29,8 @@
 
 ### 🧪 Projetos
 
-- 🔐 [Projeto Login](https://github.com/dev-victorsilva/projeto-login) – Tela de login responsiva com HTML e CSS  
-- ☕ [Armazém do Café](https://github.com/dev-victorsilva/projeto-landing-page-cafe) – Landing page de um café moderno  
+- 🔐 [Projeto Login](https://github.com/vs-fullstack/projeto-login) – Tela de login responsiva com HTML e CSS  
+- ☕ [Armazém do Café](https://github.com/vs-fullstack/projeto-landing-page-cafe) – Landing page de um café moderno  
 - 🔧 Em breve: portfólio pessoal + projetos com backend em Java  
 
 ---
