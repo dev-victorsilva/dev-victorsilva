@@ -37,7 +37,7 @@
 
 ### 📫 Contato
 
-- GitHub: [@dev-victorsilva](https://github.com/vs-fullstack)
+- GitHub: [@vs-fullstack](https://github.com/vs-fullstack)
 
 ---
 
