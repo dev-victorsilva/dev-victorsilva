@@ -1,4 +1,4 @@
-<h1 align="center">Koé, eu sou o Victor! 👋</h1>
+<h1 align="center">Koé👋</h1>
 
 <p align="center">
   Futuro Desenvolvedor Full Stack 💻 | Apaixonado por tecnologia, viagens e liberdade 🌍
