@@ -42,6 +42,6 @@
 ---
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dev-victorsilva&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-victorsilva&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vs-fullstack&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs-fullstack&layout=compact&theme=radical" />
 </div>
